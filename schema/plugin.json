@@ -256,7 +256,7 @@
       "type": "boolean",
       "title": "Enabled",
       "description": "Enable/disable notebook vim (may require a page refresh)",
-      "default": true
+      "default": false
     }
   }
 }
